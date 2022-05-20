@@ -1,2 +1,7 @@
+:diffg RE<<<<<<< HEAD
 #!/bin/bash
 echo "ALX School is so cool!"
+=======
+#!bin/[D[D[D[D/[C[C[C[D[D[Dbin/bash
+echo "ALX School"
+>>>>>>> update_script
